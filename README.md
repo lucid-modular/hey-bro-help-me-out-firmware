@@ -1,6 +1,6 @@
-# Firmware
+# Hey bro, help me out! Firmware
 
-Make sure to install the latest version of the firmware.
+This repo tracks the firmware updates for the Hey bro, help me out! module by Lucid Modular. Make sure to install the latest version.
 
 ## What you need
 
